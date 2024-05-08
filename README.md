@@ -1,8 +1,8 @@
 # GitHub Non-Followers Finder
 
-Bu Python kodu, bir GitHub kullanıcısının takip ettiği kullanıcıları ve kendisini takip etmeyenleri bulur :D
+# Aslında bunu Instagram için yapmam istendi. Instagram kullanmadığım için test etmek ve başlangıç açısından GitHub hesabımı kullandım...
 
-## Nasıl Kullanılır
+Bu Python kodu, bir GitHub kullanıcısının takip ettiği kullanıcıları ve kendisini takip etmeyenleri bulur.
 
 1. `find_non_followers` fonksiyonunu tanımlayan kod parçacığını alın.
 2. Kendi GitHub kullanıcı adınızı ve kişisel erişim belirtecinizi (`github_username` ve `github_token` değişkenleri) kod parçacığına ekleyin.
